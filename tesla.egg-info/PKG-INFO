@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: tesla
+Version: 0.1.1
+Summary: demo tesla car factory
+Home-page: https://github.com/adeyinkaoresanya/Tesla-car-factory
+Author: AdeyinkaOresanya
+Author-email: adeyinkaoresanya@gmail.com
+License: MIT
+Description: # Tesla
+        Tesla is a Python library for building a simple model of Tesla cars
+        
+        ## Installation
+        
+        Use the package manager [pip](https://pip.pypa.io/en/stable/) to install tesla.
+        
+        ```bash
+        pip install tesla
+        ```
+        
+        ## Usage
+        
+        ```python
+        import tesla
+        
+        # returns the colour of the car
+        tesla.color('red')
+        
+        # returns the number of seats
+        tesla.seats_count()
+        
+        # unlocks the car
+        tesla.unlock()
+        ```
+        
+        ## Contributing
+        Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+        
+        Please make sure to update tests as appropriate.
+        
+        ## License
+        [MIT](https://choosealicense.com/licenses/mit/)
+        
+Keywords: core package
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
