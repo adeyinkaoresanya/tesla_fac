@@ -18,7 +18,7 @@ setup(
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent",
     ],
-    url="https://github.com/adeyinkaoresanya/tesla_car_fac",
+    url="https://github.com/adeyinkaoresanya/tesla_fac",
     author="AdeyinkaOresanya",
     author_email="adeyinkaoresanya@gmail.com",
     keywords="core package",
