@@ -25,6 +25,5 @@ setup(
     license="MIT",
     py_modules = ["tesla"],
     packages= find_packages('src'), 
-    install_requires=[],
-    include_package_data=True,
+    install_requires=[]
 )
