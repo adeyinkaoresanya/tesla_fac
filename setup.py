@@ -25,5 +25,6 @@ setup(
     license="MIT",
     py_modules = ["tesla"],
     packages= find_packages('src'), 
-    install_requires=[]
+    package_dir= {"": "src"},
+    python_requires= ">=3.6",
 )
