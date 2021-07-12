@@ -23,7 +23,8 @@ setup(
     author_email="adeyinkaoresanya@gmail.com",
     keywords="core package",
     license="MIT",
-    packages= find_packages('src', exclude=['test']), 
+    py_modules = ["tesla"]
+    packages= find_packages('src'), 
     install_requires=[],
     include_package_data=True,
 )
